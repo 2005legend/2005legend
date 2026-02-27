@@ -35,50 +35,106 @@ I’m focused on building unique and useful AI systems that optimize decision-ma
 
 ---
 
-## 🧠 AI / Machine Learning
+## 🛠 Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+### 🧠 AI / Machine Learning
+<p>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" />
+</a>
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+</a>
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</a>
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+</a>
 </p>
 
 ---
 
-## ⚙️ Backend & APIs
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,nginx" />
+### ⚙️ Backend & APIs
+<p>
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=flask" />
+</a>
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=django" />
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
+<a href="https://nginx.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nginx" />
+</a>
 </p>
 
 ---
 
-## 🗄 Databases & Caching
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+### 🗄 Databases & Caching
+<p>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</a>
+<a href="https://redis.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=redis" />
+</a>
 </p>
 
 ---
 
-## ☁️ DevOps & Cloud
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp" />
+### ☁️ DevOps & Cloud
+<p>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" />
+</a>
+<a href="https://kubernetes.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+</a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</a>
+<a href="https://cloud.google.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gcp" />
+</a>
 </p>
 
 ---
 
-## 🎨 Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" />
+### 🎨 Frontend
+<p>
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" />
+</a>
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=typescript" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</a>
 </p>
 
 ---
 
-## 🛠 Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,linux" />
+### 🛠 Tools
+<p>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" />
+</a>
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" />
+</a>
 </p>
 
 ---
