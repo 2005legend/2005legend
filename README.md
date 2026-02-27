@@ -13,7 +13,7 @@
 ## 🧠 About Me
 
 🎓 B.E Computer Science Engineering  
-🎓 Minor in Data Science & Machine Learning – IIT Mandi × Masai  
+🎓 Minor in Data Science & Machine Learning – IIT Mandi 
 
 🤖 Actively learning, experimenting, and building intelligent systems  
 💰 Designing Financial Decision Agents using Reinforcement Learning  
