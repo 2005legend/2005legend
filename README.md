@@ -46,8 +46,12 @@ I’m focused on building unique and useful AI systems that optimize decision-ma
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2005legend&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2005legend&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2005legend&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2005legend&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2005legend&theme=tokyonight" />
 </p>
 
 ---
