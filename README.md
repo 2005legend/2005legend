@@ -35,10 +35,50 @@ I’m focused on building unique and useful AI systems that optimize decision-ma
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🧠 AI / Machine Learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,django,postgres,mongodb,redis,docker,kubernetes,aws,gcp,git,linux,react,nextjs,typescript,nodejs,tailwind,nginx" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+</p>
+
+---
+
+## ⚙️ Backend & APIs
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,nginx" />
+</p>
+
+---
+
+## 🗄 Databases & Caching
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+---
+
+## ☁️ DevOps & Cloud
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp" />
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" />
+</p>
+
+---
+
+## 🛠 Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,linux" />
 </p>
 
 ---
